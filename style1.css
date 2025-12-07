@@ -232,9 +232,10 @@ li.Ichliebedich a:hover {
 
 .violet {
 	color: #ffffff;
-	font-family: 'KaushanScriptRegular';
-    font-size: 20px;
-    font-style: normal;
+	font-family: "Kaushan Script", cursive;
+	font-weight: 400px;
+	font-style: normal;
+	font-size: 25px;
 
 }
 
